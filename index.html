@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>주식 투자의견</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>.hidden-card { display: none; }</style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="max-w-md mx-auto min-h-screen bg-white shadow-xl">
+        <div class="bg-slate-900 text-white p-6 rounded-b-3xl mb-4">
+            <h1 class="text-xl font-bold">📊 투자의견 판독기</h1>
+            <p id="updateTime" class="text-slate-400 text-xs">로딩 중...</p>
+        </div>
+        <div class="px-6 mb-4">
+            <input type="text" id="searchInput" placeholder="종목 검색 (예: 삼성)" 
+                class="w-full bg-gray-100 p-4 rounded-xl outline-none font-bold" onkeyup="filterList()">
+        </div>
+        <div id="stockList" class="p-6 space-y-4 pb-20"></div>
+    </div>
+    <script>
+        async function loadData() {
+            try {
+                const res = await fetch('data.json?t=' + Date.now());
+                const json = await res.json();
+                document.getElementById('updateTime').innerText = `업데이트: ${json.updated_at}`;
+                renderList(json.stocks.sort((a, b) => b.consensus - a.consensus));
+            } catch { document.getElementById('stockList').innerHTML = '<p class="text-center text-red-500">데이터 없음. Actions를 실행하세요.</p>'; }
+        }
+        function renderList(data) {
+            const list = document.getElementById('stockList');
+            list.innerHTML = '';
+            data.forEach(item => {
+                const score = parseFloat(item.consensus);
+                let color = score >= 4.0 ? "text-red-600" : (score >= 3.0 ? "text-orange-500" : "text-gray-400");
+                let bg = score >= 4.0 ? "bg-red-500" : (score >= 3.0 ? "bg-orange-500" : "bg-gray-300");
+                list.innerHTML += `
+                    <div class="stock-card border p-5 rounded-2xl shadow-sm hover:shadow-md transition">
+                        <div class="flex justify-between mb-2">
+                            <h3 class="font-bold text-lg">${item.name} <span class="text-xs text-gray-400 font-normal">${item.code}</span></h3>
+                            <span class="text-xs font-bold bg-gray-100 px-2 py-1 rounded">${item.opinion}</span>
+                        </div>
+                        <div class="flex justify-between items-end mb-2">
+                            <div class="text-3xl font-black ${color}">${score}<span class="text-sm text-gray-300">/4.0</span></div>
+                            <div class="text-right"><p class="font-bold">${item.target_price}</p><p class="text-xs text-gray-400">목표가</p></div>
+                        </div>
+                        <div class="h-2 bg-gray-100 rounded-full overflow-hidden mb-3"><div class="h-full ${bg}" style="width:${(score/4)*100}%"></div></div>
+                        <a href="${item.url}" target="_blank" class="block text-center py-2 bg-slate-50 text-sm rounded-lg">상세보기</a>
+                    </div>`;
+            });
+        }
+        function filterList() {
+            const input = document.getElementById('searchInput').value.toUpperCase();
+            document.querySelectorAll('.stock-card').forEach(card => {
+                card.classList.toggle('hidden-card', !card.innerText.toUpperCase().includes(input));
+            });
+        }
+        loadData();
+    </script>
+</body>
+</html>
+
+

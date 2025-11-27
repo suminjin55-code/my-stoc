@@ -1,9 +1,9 @@
 {
-    "updated_at": "2025-11-26 23:31:05",
+    "updated_at": "2025-11-27 23:30:57",
     "stocks": [
         {
             "code": "005930",
-            "price": "102,800",
+            "price": "103,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "524,000",
+            "price": "544,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "263,500",
+            "price": "251,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "61,000",
+            "price": "59,700",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "000270",
-            "price": "113,200",
+            "price": "114,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "247540",
-            "price": "150,000",
+            "price": "147,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +57,7 @@
         },
         {
             "code": "051910",
-            "price": "397,000",
+            "price": "395,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,21 +66,12 @@
         },
         {
             "code": "003490",
-            "price": "21,700",
+            "price": "21,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
             "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
             "name": "대한항공"
-        },
-        {
-            "code": "373220",
-            "price": "435,500",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A373220&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "LG에너지솔루션"
         }
     ]
 }

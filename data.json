@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-06 23:31:13",
+    "updated_at": "2025-12-07 23:30:37",
     "stocks": [
         {
             "code": "005930",
@@ -56,13 +56,13 @@
             "name": "에코프로비엠"
         },
         {
-            "code": "051910",
-            "price": "381,500",
+            "code": "003490",
+            "price": "22,250",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "LG화학"
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "대한항공"
         },
         {
             "code": "373220",

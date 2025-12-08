@@ -1,9 +1,9 @@
 {
-    "updated_at": "2025-12-07 23:30:37",
+    "updated_at": "2025-12-08 23:33:33",
     "stocks": [
         {
             "code": "005930",
-            "price": "108,400",
+            "price": "109,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "544,000",
+            "price": "577,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "249,500",
+            "price": "249,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "005380",
-            "price": "315,000",
+            "price": "315,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "000270",
-            "price": "123,600",
+            "price": "125,600",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "247540",
-            "price": "159,700",
+            "price": "173,300",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -56,17 +56,17 @@
             "name": "에코프로비엠"
         },
         {
-            "code": "003490",
-            "price": "22,250",
+            "code": "051910",
+            "price": "386,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "대한항공"
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG화학"
         },
         {
             "code": "373220",
-            "price": "426,000",
+            "price": "451,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

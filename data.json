@@ -1,9 +1,9 @@
 {
-    "updated_at": "2025-12-10 23:31:55",
+    "updated_at": "2025-12-11 23:34:07",
     "stocks": [
         {
             "code": "005930",
-            "price": "108,000",
+            "price": "107,300",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "587,000",
+            "price": "565,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "244,500",
+            "price": "243,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -29,17 +29,8 @@
             "name": "NAVER"
         },
         {
-            "code": "035720",
-            "price": "59,200",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035720&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "카카오"
-        },
-        {
             "code": "005380",
-            "price": "302,500",
+            "price": "295,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +39,7 @@
         },
         {
             "code": "000270",
-            "price": "123,400",
+            "price": "122,900",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +48,7 @@
         },
         {
             "code": "247540",
-            "price": "179,500",
+            "price": "173,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -65,17 +56,8 @@
             "name": "에코프로비엠"
         },
         {
-            "code": "051910",
-            "price": "376,000",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "LG화학"
-        },
-        {
             "code": "003490",
-            "price": "22,200",
+            "price": "22,100",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -84,7 +66,7 @@
         },
         {
             "code": "373220",
-            "price": "441,500",
+            "price": "446,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

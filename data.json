@@ -1,9 +1,9 @@
 {
-    "updated_at": "2025-12-11 23:34:07",
+    "updated_at": "2025-12-12 23:33:31",
     "stocks": [
         {
             "code": "005930",
-            "price": "107,300",
+            "price": "108,900",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "565,000",
+            "price": "571,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "243,500",
+            "price": "244,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "005380",
-            "price": "295,500",
+            "price": "301,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "000270",
-            "price": "122,900",
+            "price": "125,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "247540",
-            "price": "173,800",
+            "price": "176,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +57,7 @@
         },
         {
             "code": "003490",
-            "price": "22,100",
+            "price": "22,600",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +66,7 @@
         },
         {
             "code": "373220",
-            "price": "446,000",
+            "price": "445,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

@@ -1,9 +1,9 @@
 {
-    "updated_at": "2025-12-14 23:32:05",
+    "updated_at": "2025-12-15 23:34:50",
     "stocks": [
         {
             "code": "005930",
-            "price": "108,900",
+            "price": "104,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "571,000",
+            "price": "554,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "244,500",
+            "price": "240,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -29,8 +29,17 @@
             "name": "NAVER"
         },
         {
+            "code": "035720",
+            "price": "59,600",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035720&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "카카오"
+        },
+        {
             "code": "005380",
-            "price": "301,500",
+            "price": "293,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -38,17 +47,8 @@
             "name": "현대차"
         },
         {
-            "code": "000270",
-            "price": "125,800",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "기아"
-        },
-        {
             "code": "247540",
-            "price": "176,000",
+            "price": "179,700",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -56,8 +56,17 @@
             "name": "에코프로비엠"
         },
         {
+            "code": "051910",
+            "price": "369,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG화학"
+        },
+        {
             "code": "003490",
-            "price": "22,600",
+            "price": "22,400",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +75,7 @@
         },
         {
             "code": "373220",
-            "price": "445,500",
+            "price": "442,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-24 23:33:15",
+    "updated_at": "2025-12-25 23:33:30",
     "stocks": [
         {
             "code": "005930",
@@ -45,6 +45,15 @@
             "target_price": "-",
             "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005380&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
             "name": "현대차"
+        },
+        {
+            "code": "000270",
+            "price": "121,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "기아"
         },
         {
             "code": "247540",

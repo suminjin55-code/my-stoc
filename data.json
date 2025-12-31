@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-30 23:09:47",
+    "updated_at": "2025-12-31 23:10:34",
     "stocks": [
         {
             "code": "005930",
@@ -38,13 +38,13 @@
             "name": "카카오"
         },
         {
-            "code": "005380",
-            "price": "296,500",
+            "code": "000270",
+            "price": "121,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005380&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "현대차"
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "기아"
         },
         {
             "code": "247540",
@@ -72,15 +72,6 @@
             "target_price": "-",
             "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
             "name": "대한항공"
-        },
-        {
-            "code": "373220",
-            "price": "368,500",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A373220&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "LG에너지솔루션"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-09 23:11:06",
+    "updated_at": "2026-01-10 23:10:03",
     "stocks": [
         {
             "code": "005930",
@@ -38,13 +38,13 @@
             "name": "카카오"
         },
         {
-            "code": "000270",
-            "price": "133,200",
+            "code": "005380",
+            "price": "366,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "기아"
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005380&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "현대차"
         },
         {
             "code": "247540",

@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-01-18 23:10:35",
+    "updated_at": "2026-01-19 23:11:17",
     "stocks": [
         {
             "code": "005930",
-            "price": "148,900",
+            "price": "149,300",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "756,000",
+            "price": "764,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "245,500",
+            "price": "238,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "57,300",
+            "price": "56,600",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "000270",
-            "price": "151,100",
+            "price": "169,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "247540",
-            "price": "145,800",
+            "price": "154,200",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +57,7 @@
         },
         {
             "code": "051910",
-            "price": "333,500",
+            "price": "337,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -65,13 +65,13 @@
             "name": "LG화학"
         },
         {
-            "code": "373220",
-            "price": "391,000",
+            "code": "003490",
+            "price": "24,300",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A373220&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "LG에너지솔루션"
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "대한항공"
         }
     ]
 }

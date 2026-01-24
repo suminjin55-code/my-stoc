@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-23 23:12:10",
+    "updated_at": "2026-01-24 23:14:31",
     "stocks": [
         {
             "code": "005930",
@@ -29,6 +29,15 @@
             "name": "NAVER"
         },
         {
+            "code": "035720",
+            "price": "61,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035720&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "카카오"
+        },
+        {
             "code": "005380",
             "price": "510,000",
             "consensus": 0.0,
@@ -54,6 +63,15 @@
             "target_price": "-",
             "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A247540&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
             "name": "에코프로비엠"
+        },
+        {
+            "code": "051910",
+            "price": "358,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG화학"
         },
         {
             "code": "003490",

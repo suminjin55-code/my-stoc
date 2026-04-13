@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-04-12 23:23:03",
+    "updated_at": "2026-04-13 23:37:06",
     "stocks": [
         {
             "code": "005930",
-            "price": "206,000",
+            "price": "201,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "1,027,000",
+            "price": "1,040,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "202,000",
+            "price": "199,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "47,700",
+            "price": "47,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "005380",
-            "price": "489,500",
+            "price": "478,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "000270",
-            "price": "149,000",
+            "price": "147,400",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +57,7 @@
         },
         {
             "code": "247540",
-            "price": "201,500",
+            "price": "199,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +66,7 @@
         },
         {
             "code": "051910",
-            "price": "356,000",
+            "price": "340,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -74,17 +74,8 @@
             "name": "LG화학"
         },
         {
-            "code": "003490",
-            "price": "24,700",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "대한항공"
-        },
-        {
             "code": "373220",
-            "price": "412,000",
+            "price": "401,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

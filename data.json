@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-04-14 23:33:26",
+    "updated_at": "2026-04-15 23:36:53",
     "stocks": [
         {
             "code": "005930",
-            "price": "206,500",
+            "price": "211,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "1,103,000",
+            "price": "1,136,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -20,17 +20,8 @@
             "name": "SK하이닉스"
         },
         {
-            "code": "035420",
-            "price": "201,500",
-            "consensus": 0.0,
-            "opinion": "의견없음",
-            "target_price": "-",
-            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035420&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
-            "name": "NAVER"
-        },
-        {
             "code": "035720",
-            "price": "48,100",
+            "price": "49,600",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +30,7 @@
         },
         {
             "code": "005380",
-            "price": "491,500",
+            "price": "508,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +39,7 @@
         },
         {
             "code": "000270",
-            "price": "149,200",
+            "price": "151,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +48,7 @@
         },
         {
             "code": "247540",
-            "price": "197,800",
+            "price": "202,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +57,7 @@
         },
         {
             "code": "051910",
-            "price": "341,500",
+            "price": "354,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -75,7 +66,7 @@
         },
         {
             "code": "003490",
-            "price": "24,700",
+            "price": "24,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -84,7 +75,7 @@
         },
         {
             "code": "373220",
-            "price": "400,000",
+            "price": "408,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

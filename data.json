@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-04-16 23:30:19",
+    "updated_at": "2026-04-17 23:28:51",
     "stocks": [
         {
             "code": "005930",
-            "price": "217,500",
+            "price": "216,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "1,155,000",
+            "price": "1,128,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "218,500",
+            "price": "216,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "50,600",
+            "price": "50,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "005380",
-            "price": "534,000",
+            "price": "538,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "000270",
-            "price": "157,900",
+            "price": "159,200",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +57,7 @@
         },
         {
             "code": "247540",
-            "price": "205,000",
+            "price": "208,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +66,7 @@
         },
         {
             "code": "051910",
-            "price": "357,500",
+            "price": "360,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -75,7 +75,7 @@
         },
         {
             "code": "003490",
-            "price": "25,200",
+            "price": "25,050",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -84,7 +84,7 @@
         },
         {
             "code": "373220",
-            "price": "416,000",
+            "price": "418,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-04-22 23:41:57",
+    "updated_at": "2026-04-23 23:34:19",
     "stocks": [
         {
             "code": "005930",
-            "price": "217,500",
+            "price": "224,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "1,223,000",
+            "price": "1,225,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -20,8 +20,17 @@
             "name": "SK하이닉스"
         },
         {
+            "code": "035420",
+            "price": "217,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035420&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "NAVER"
+        },
+        {
             "code": "035720",
-            "price": "48,450",
+            "price": "48,400",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +39,7 @@
         },
         {
             "code": "005380",
-            "price": "541,000",
+            "price": "532,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +48,7 @@
         },
         {
             "code": "000270",
-            "price": "160,000",
+            "price": "158,400",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +57,7 @@
         },
         {
             "code": "247540",
-            "price": "218,000",
+            "price": "205,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +66,7 @@
         },
         {
             "code": "051910",
-            "price": "392,000",
+            "price": "391,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,12 +75,21 @@
         },
         {
             "code": "003490",
-            "price": "25,200",
+            "price": "24,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
             "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
             "name": "대한항공"
+        },
+        {
+            "code": "373220",
+            "price": "466,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A373220&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG에너지솔루션"
         }
     ]
 }

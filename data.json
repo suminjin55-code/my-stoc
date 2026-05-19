@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-05-18 23:58:25",
+    "updated_at": "2026-05-19 23:51:38",
     "stocks": [
         {
             "code": "005930",
-            "price": "281,000",
+            "price": "275,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "1,840,000",
+            "price": "1,745,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "200,000",
+            "price": "198,100",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "42,450",
+            "price": "41,600",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "005380",
-            "price": "663,000",
+            "price": "604,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "000270",
-            "price": "162,500",
+            "price": "154,900",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +57,7 @@
         },
         {
             "code": "247540",
-            "price": "190,400",
+            "price": "182,400",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -65,8 +65,26 @@
             "name": "에코프로비엠"
         },
         {
+            "code": "051910",
+            "price": "350,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG화학"
+        },
+        {
+            "code": "003490",
+            "price": "25,800",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "대한항공"
+        },
+        {
             "code": "373220",
-            "price": "408,000",
+            "price": "400,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

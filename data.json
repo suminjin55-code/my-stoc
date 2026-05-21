@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-05-21 00:04:26",
+    "updated_at": "2026-05-21 23:47:53",
     "stocks": [
         {
             "code": "005930",
-            "price": "276,000",
+            "price": "299,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "1,745,000",
+            "price": "1,940,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "191,500",
+            "price": "199,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "40,150",
+            "price": "41,800",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -38,8 +38,26 @@
             "name": "카카오"
         },
         {
+            "code": "005380",
+            "price": "666,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005380&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "현대차"
+        },
+        {
+            "code": "000270",
+            "price": "167,900",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "기아"
+        },
+        {
             "code": "247540",
-            "price": "176,700",
+            "price": "195,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +66,7 @@
         },
         {
             "code": "051910",
-            "price": "332,000",
+            "price": "348,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -57,7 +75,7 @@
         },
         {
             "code": "003490",
-            "price": "24,800",
+            "price": "26,450",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +84,7 @@
         },
         {
             "code": "373220",
-            "price": "384,500",
+            "price": "401,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

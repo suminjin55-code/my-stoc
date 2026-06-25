@@ -1,9 +1,45 @@
 {
-    "updated_at": "2026-06-24 00:05:50",
+    "updated_at": "2026-06-25 00:06:45",
     "stocks": [
         {
+            "code": "005380",
+            "price": "509,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005380&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "현대차"
+        },
+        {
+            "code": "247540",
+            "price": "152,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A247540&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "에코프로비엠"
+        },
+        {
+            "code": "051910",
+            "price": "297,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG화학"
+        },
+        {
+            "code": "003490",
+            "price": "27,350",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A003490&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "대한항공"
+        },
+        {
             "code": "373220",
-            "price": "362,000",
+            "price": "365,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

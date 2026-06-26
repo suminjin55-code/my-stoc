@@ -1,9 +1,45 @@
 {
-    "updated_at": "2026-06-25 00:06:45",
+    "updated_at": "2026-06-26 00:02:05",
     "stocks": [
         {
+            "code": "005930",
+            "price": "358,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005930&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "삼성전자"
+        },
+        {
+            "code": "000660",
+            "price": "2,917,000",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000660&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "SK하이닉스"
+        },
+        {
+            "code": "035420",
+            "price": "199,700",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035420&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "NAVER"
+        },
+        {
+            "code": "035720",
+            "price": "34,250",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A035720&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "카카오"
+        },
+        {
             "code": "005380",
-            "price": "509,000",
+            "price": "503,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -11,8 +47,17 @@
             "name": "현대차"
         },
         {
+            "code": "000270",
+            "price": "139,500",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "기아"
+        },
+        {
             "code": "247540",
-            "price": "152,500",
+            "price": "144,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +66,7 @@
         },
         {
             "code": "051910",
-            "price": "297,500",
+            "price": "285,500",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +75,7 @@
         },
         {
             "code": "003490",
-            "price": "27,350",
+            "price": "29,100",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +84,7 @@
         },
         {
             "code": "373220",
-            "price": "365,500",
+            "price": "352,000",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

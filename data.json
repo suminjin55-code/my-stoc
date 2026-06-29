@@ -1,9 +1,9 @@
 {
-    "updated_at": "2026-06-29 00:04:00",
+    "updated_at": "2026-06-29 23:50:25",
     "stocks": [
         {
             "code": "005930",
-            "price": "339,500",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -12,7 +12,7 @@
         },
         {
             "code": "000660",
-            "price": "2,673,000",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -21,7 +21,7 @@
         },
         {
             "code": "035420",
-            "price": "196,400",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -30,7 +30,7 @@
         },
         {
             "code": "035720",
-            "price": "33,150",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -39,7 +39,7 @@
         },
         {
             "code": "005380",
-            "price": "480,500",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -48,7 +48,7 @@
         },
         {
             "code": "000270",
-            "price": "135,300",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -56,8 +56,26 @@
             "name": "기아"
         },
         {
+            "code": "247540",
+            "price": "-",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A247540&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "에코프로비엠"
+        },
+        {
+            "code": "051910",
+            "price": "-",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A051910&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "LG화학"
+        },
+        {
             "code": "003490",
-            "price": "28,050",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",
@@ -66,7 +84,7 @@
         },
         {
             "code": "373220",
-            "price": "331,500",
+            "price": "-",
             "consensus": 0.0,
             "opinion": "의견없음",
             "target_price": "-",

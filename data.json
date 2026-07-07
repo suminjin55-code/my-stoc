@@ -1,6 +1,15 @@
 {
-    "updated_at": "2026-07-06 00:06:43",
+    "updated_at": "2026-07-07 00:06:48",
     "stocks": [
+        {
+            "code": "000270",
+            "price": "-",
+            "consensus": 0.0,
+            "opinion": "의견없음",
+            "target_price": "-",
+            "url": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A000270&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701",
+            "name": "기아"
+        },
         {
             "code": "247540",
             "price": "-",
